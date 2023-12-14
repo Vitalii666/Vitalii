@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: *name*/myk8s
+        image: Vitalii/myk8s
         ports:
         - containerPort: 80
